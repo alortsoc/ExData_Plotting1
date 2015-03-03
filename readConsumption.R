@@ -1,3 +1,4 @@
+#sqldf package provides a way of filtering the rows desired using a SQL syntax
 readElectricConsumption <- function(filename) {
     
     library(sqldf)
